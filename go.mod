@@ -1,4 +1,4 @@
-module github.com/czyt/copieroptpb
+module github.com/tiny-lib/copieroptpb
 
 go 1.19
 
