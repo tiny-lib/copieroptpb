@@ -1,7 +1,7 @@
 # copieroptpb
 [copier](https://github.com/jinzhu/copier) option for protobuf wrappervalues
 ```go
-import "github.com/czyt/copieroptpb"
+import "github.com/tiny-lib/copieroptpb"
 ....
 user:=&User{}
 if err := copier.CopyWithOption(req.User, user, copieroptpb.Option()); err != nil {
